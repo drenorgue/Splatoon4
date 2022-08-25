@@ -12,12 +12,8 @@
 			]
 		},
 		{
-			"Name": "AdvancedSteamSessions",
-			"Enabled": false
-		},
-		{
-			"Name": "AdvancedSessions",
-			"Enabled": false
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
 		}
 	]
 }
