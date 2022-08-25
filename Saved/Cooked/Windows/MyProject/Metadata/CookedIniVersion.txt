@@ -464,7 +464,8 @@ Engine:SystemSettings:r.Shadow.DetectVertexShaderLayerAtRuntime:0=1
 Engine:OnlineSubsystem:PollingIntervalInMs:0=20
 Engine:OnlineSubsystem:AdditionalModulesToLoad:0=HTTP
 Engine:OnlineSubsystem:AdditionalModulesToLoad:1=XMPP
-Engine:/Script/OnlineSubsystemSteam.SteamNetDriver:NetConnectionClassName:0=/Script/OnlineSubsystemSteam.SteamNetConnection
+Engine:OnlineSubsystem:DefaultPlatformService:0=Steam
+Engine:OnlineSubsystemSteam:bEnabled:0=true
 Engine:OnlineSubsystemNull:bEnabled:0=true
 Engine:OnlineSubsystemNull:bAutoLoginAtStartup:0=true
 Engine:OnlineSubsystemNull:bRequireLoginCredentials:0=false
@@ -657,7 +658,7 @@ Game:/Script/UnrealEd.ProjectPackagingSettings:PerPlatformBuildTarget:0=()
 Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
 Game:/Script/UnrealEd.ProjectPackagingSettings:LaunchOnTarget:0=
-Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="E/Sauvegarde Splatoon 4/build/Build Day 1/Build 3")
+Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="E/Sauvegarde Splatoon 4/build/Build Day 1/build 9")
 Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
@@ -681,7 +682,7 @@ Game:/Script/UnrealEd.ProjectPackagingSettings:LocalizationTargetCatchAllChunkId
 Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
-Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
+Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bUseIoStore:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True

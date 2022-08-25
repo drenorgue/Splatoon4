@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\zzzlo\\Dropbox\\Mon PC (DESKTOP-M33J9K2)\\Documents\\Unreal Projects\\Splatoon4\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\zzzlo\\Dropbox\\Mon PC (DESKTOP-M33J9K2)\\Documents\\Unreal Projects\\Splatoon4\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"C:\\Users\\zzzlo\\Dropbox\\Mon PC (DESKTOP-M33J9K2)\\Documents\\Unreal Projects\\Splatoon4\\Intermediate\\Source\\MyProject.Build.cs",
+		"C:\\Users\\zzzlo\\Dropbox\\Mon PC (DESKTOP-M33J9K2)\\Documents\\Unreal Projects\\Splatoon4\\Intermediate\\Source\\MyProject.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
