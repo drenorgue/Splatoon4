@@ -1,9 +1,9 @@
-Engine/Binaries/Win64/D3D12/D3D12Core.dll	2022-08-25T15:54:54.573Z
-Engine/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2022-08-25T15:54:54.600Z
-Engine/Binaries/Win64/OpenImageDenoise.dll	2022-08-25T15:55:32.714Z
-Engine/Binaries/Win64/tbb.dll	2022-08-25T15:55:46.347Z
-Engine/Binaries/Win64/tbb12.dll	2022-08-25T15:55:46.348Z
-Engine/Binaries/Win64/UnrealGame.exe	2022-08-25T15:58:07.087Z
+MyProject/Binaries/Win64/D3D12/D3D12Core.dll	2022-08-25T15:54:36.834Z
+MyProject/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2022-08-25T15:54:38.298Z
+MyProject/Binaries/Win64/MyProject.exe	2022-08-26T12:27:16.749Z
+MyProject/Binaries/Win64/OpenImageDenoise.dll	2022-08-25T16:49:12.898Z
+MyProject/Binaries/Win64/tbb.dll	2022-08-25T15:53:16.869Z
+MyProject/Binaries/Win64/tbb12.dll	2022-08-25T16:49:05.548Z
 Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2022-08-25T16:07:42.398Z
 Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2022-08-25T15:51:48.132Z
 Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/GfnRuntimeSdk.dll	2022-08-25T15:53:35.603Z
@@ -14,8 +14,9 @@ Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CookingPROFILE_x64.dll	2022
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3PROFILE_x64.dll	2022-08-25T15:54:09.919Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundationPROFILE_x64.dll	2022-08-25T15:54:12.000Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDKPROFILE_x64.dll	2022-08-25T15:54:12.123Z
+Engine/Binaries/ThirdParty/Steamworks/Steamv151/Win64/steam_api64.dll	2022-08-25T15:54:34.111Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2022-08-25T15:54:36.225Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2022-08-25T15:54:36.227Z
 Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2022-08-25T15:54:38.321Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2022-08-25T15:54:40.824Z
-MyProject.exe	2022-08-25T22:17:52.613Z
+MyProject.exe	2022-08-26T12:27:47.849Z
